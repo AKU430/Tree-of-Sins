@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2fa9cc983dd74a44afe1a1ddbae7c3b, type: 3}
+  m_Name: Greed Starter
+  m_EditorClassIdentifier: 
+  icon: {fileID: 0}
+  name: "\uADF8\uB9AC\uB4DC"
+  type: {fileID: 11400000, guid: 1f89e0ccbd623f94da25847b08ace1ce, type: 2}
+  atkType: {fileID: 11400000, guid: 6ae37bef9f0414c4fa47caea458f6873, type: 2}
+  hp: 40
+  karma: 30
+  attack: 50
+  defense: 45
+  karmaAttack: 40
+  karmaDefense: 40
+  speed: 20
