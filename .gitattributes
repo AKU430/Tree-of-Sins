@@ -1,0 +1,9 @@
+* text=auto
+*.cs text diff=csharp
+*.shader text
+*.mat text
+*.meta text
+*.prefab text
+*.unity text
+*.anim text
+*.controller text
