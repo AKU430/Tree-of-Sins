@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 16b645bf07e41e84db4412a42254f026
+guid: 208bedb32eac3b940b6da9feb08b80b5
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3589569972734843338
-    second: LeejunghanWhiteFish_0
+      213: 7145198348311737387
+    second: Sprite-0002_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -52,7 +52,7 @@ TextureImporter:
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteBorder: {x: 32, y: 32, z: 32, w: 32}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
@@ -113,23 +113,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: LeejunghanWhiteFish_0
+      name: Sprite-0002_0
       rect:
         serializedVersion: 2
-        x: 17
-        y: 5
-        width: 33
-        height: 52
+        x: 0
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6362bbec0294f2ec0800000000000000
-      internalID: -3589569972734843338
+      spriteID: b2434d87a08d82360800000000000000
+      internalID: 7145198348311737387
       vertices: []
       indices: 
       edges: []
@@ -139,7 +139,7 @@ TextureImporter:
     physicsShape: []
     bones: []
     spriteID: 5e97eb03825dee720800000000000000
-    internalID: 0
+    internalID: 1537655665
     vertices: []
     indices: 
     edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      LeejunghanWhiteFish_0: -3589569972734843338
+      Sprite-0002_0: 7145198348311737387
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

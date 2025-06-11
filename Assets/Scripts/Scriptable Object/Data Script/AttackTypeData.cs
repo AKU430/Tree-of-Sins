@@ -1,7 +1,7 @@
 using UnityEngine;
 
 [CreateAssetMenu(fileName = "AttackType", menuName = "Scriptable Objects/AttackType")]
-public class AttackTypeSystem : ScriptableObject
+public class AttackTypeData : ScriptableObject
 {
     public enum AttackType
     {

@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 16b645bf07e41e84db4412a42254f026
+guid: 8f202328dca817541a60e9c5d8232629
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3589569972734843338
-    second: LeejunghanWhiteFish_0
+      213: 3893384556916867144
+    second: MonsterArea_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: LeejunghanWhiteFish_0
+      name: MonsterArea_0
       rect:
         serializedVersion: 2
-        x: 17
-        y: 5
-        width: 33
-        height: 52
+        x: 7
+        y: 7
+        width: 50
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6362bbec0294f2ec0800000000000000
-      internalID: -3589569972734843338
+      spriteID: 840850160a4180630800000000000000
+      internalID: 3893384556916867144
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      LeejunghanWhiteFish_0: -3589569972734843338
+      MonsterArea_0: 3893384556916867144
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

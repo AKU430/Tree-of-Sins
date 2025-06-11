@@ -1,7 +1,7 @@
 using UnityEngine;
 
 [CreateAssetMenu(fileName = "ElementType", menuName = "Scriptable Objects/ElementType")]
-public class ElementSystem : ScriptableObject
+public class ElementData : ScriptableObject
 {
     public enum ElementType
     {

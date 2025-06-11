@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class Ability : MonoBehaviour
+public class AbilitySystem : MonoBehaviour
 {
     public enum AbilityT
     {

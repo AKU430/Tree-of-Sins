@@ -8,8 +8,8 @@ public class MonsterData : ScriptableObject
     [Space(10)]
     public Sprite icon;
     public string name;
-    public  ElementSystem type; //몬스터 타입 : 오만, 탐욕, 질투, 분노, 색욕, 폭식, 나태
-    public  AttackTypeSystem atkType; //몬스터 공격유형 : 참격, 타격, 관통, 죄업
+    public  ElementData type; //몬스터 타입 : 오만, 탐욕, 질투, 분노, 색욕, 폭식, 나태
+    public  AttackTypeData atkType; //몬스터 공격유형 : 참격, 타격, 관통, 죄업
     
     [Header("종족값")]
     [Space(10)]
