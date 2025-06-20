@@ -12,6 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 56d834a97b6cc6c4db2515524d343c01, type: 3}
   m_Name: Envy
   m_EditorClassIdentifier: 
-  elementType: 0
-  icon: {fileID: 0}
   displayName: "\uC9C8\uD22C"
+  displayIcon: {fileID: 0}
+  typeAbilityData: {fileID: 0}
+  elementType: 2

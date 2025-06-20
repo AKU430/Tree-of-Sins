@@ -9,10 +9,5 @@ public interface IAbilityEffect
 
 public class Unit : MonoBehaviour
 {
-    public MonsterData monster { get; set; };
-}
-
-public abstract class AbilityEffectSO : ScriptableObject, IAbilityEffect
-{
     
 }

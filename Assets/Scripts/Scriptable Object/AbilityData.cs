@@ -6,7 +6,6 @@ public class AbilityData : ScriptableObject
     [Header("특성 정보")]
     [Space(10)]
     public string abilityName;
-    public 
     [TextArea(3,2)]
     public string abilityDescription;
 }
