@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a2fa9cc983dd74a44afe1a1ddbae7c3b, type: 3}
   m_Name: Ashen Fish
   m_EditorClassIdentifier: 
-  icon: {fileID: -3589569972734843338, guid: 16b645bf07e41e84db4412a42254f026, type: 3}
+  icon: {fileID: 21300000, guid: 16b645bf07e41e84db4412a42254f026, type: 3}
   name: "\uC7BF\uBE5B \uBB3C\uACE0\uAE30"
   type: {fileID: 11400000, guid: c471f877470a697489344123957973d2, type: 2}
   atkType: {fileID: 11400000, guid: 9a3435c4c68fac44998f891117e0ed43, type: 2}
