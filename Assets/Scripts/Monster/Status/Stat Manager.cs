@@ -12,7 +12,7 @@ public class StatManager : MonoBehaviour
     //(2 * 종족값) * 레벨/100 + 10
     public int HpCaculate(Stat stat)
     {
-        var inGameStat = (2 * monsterData.hp) * stat.monsterLevel / 100 + 10;
-        return inGameStat;
+        var inGameHp = (2 * monsterData.hp) * (stat.monsterLevel / 100) + 10;
+        return inGameHp;
     }
 }

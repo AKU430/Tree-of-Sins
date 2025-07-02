@@ -6,5 +6,5 @@ using UnityEngine;
 public class Stat
 {
     public int monsterLevel;
-    public int maxHp;
+    public int maxHp = StatManager.Instance.HpCaculate();
 }
